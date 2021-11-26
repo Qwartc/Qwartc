@@ -1,0 +1,45 @@
+<html>
+	<head>
+	</head>
+	<body>
+		<input type="text" name="" class="enter-n">
+		<input type="button" name="" class="clickForValue" value="Crack">
+		<p>p = <span class="value-p"></span></p>
+		<p>q = <span class="value-q"></span></p>
+		<p>Q = <span class="value-u"></span></p>
+		<input type="text" name="" class="enter-s" placeholder="Enter s">
+		<input type="button" name="" class="clickForCheck" value="Check">
+		<p class="s"></p>
+		<p class="t"></p>
+		<script type="text/javascript">
+			let enterN = document.querySelector('.enter-n');
+			let button = document.querySelector('.clickForValue');
+			let enterS = document.querySelector('.enter-s');
+			let buttonT = document.querySelector('.clickForCheck');
+
+			buttonT.onclick = function(){
+				var s = enterS.value;
+				var t = s.toUpperCase();
+				document.querySelector('.s').textContent = s;
+				document.querySelector('.t').textContent = t;
+			}
+
+			button.onclick = function (){
+				var n = enterN.value;
+				for(let i=0; i<=n; i++)
+				{
+					var q=0;
+					if((n % i == 0)&&(i != 1))
+					{
+						q = n/i;
+						var Q = (i-1) * (q-1);
+						document.querySelector('.value-p').textContent = i;
+						document.querySelector('.value-q').textContent = q;
+						document.querySelector('.value-u').textContent = Q;
+						break;
+					}
+				}
+			}
+		</script>
+	</body>
+</html>
