@@ -1,0 +1,18 @@
+C:\Users\alexe\source\repos\Economy\Economy\bin\Debug\Economy.exe.config
+C:\Users\alexe\source\repos\Economy\Economy\bin\Debug\Economy.exe
+C:\Users\alexe\source\repos\Economy\Economy\bin\Debug\Economy.pdb
+C:\Users\alexe\source\repos\Economy\Economy\bin\Debug\uk-UA\Economy.resources.dll
+C:\Users\alexe\source\repos\Economy\Economy\obj\Debug\Economy.Form1.resources
+C:\Users\alexe\source\repos\Economy\Economy\obj\Debug\Economy.Form2.resources
+C:\Users\alexe\source\repos\Economy\Economy\obj\Debug\Economy.Form3.resources
+C:\Users\alexe\source\repos\Economy\Economy\obj\Debug\Economy.Form4.resources
+C:\Users\alexe\source\repos\Economy\Economy\obj\Debug\Economy.Form5.resources
+C:\Users\alexe\source\repos\Economy\Economy\obj\Debug\Economy.Properties.Resources.resources
+C:\Users\alexe\source\repos\Economy\Economy\obj\Debug\Economy.Form1.uk-UA.resources
+C:\Users\alexe\source\repos\Economy\Economy\obj\Debug\Economy.Form2.uk-UA.resources
+C:\Users\alexe\source\repos\Economy\Economy\obj\Debug\Economy.Form3.uk-UA.resources
+C:\Users\alexe\source\repos\Economy\Economy\obj\Debug\Easy Analitics.csproj.GenerateResource.cache
+C:\Users\alexe\source\repos\Economy\Economy\obj\Debug\Easy Analitics.csproj.CoreCompileInputs.cache
+C:\Users\alexe\source\repos\Economy\Economy\obj\Debug\uk-UA\Economy.resources.dll
+C:\Users\alexe\source\repos\Economy\Economy\obj\Debug\Economy.exe
+C:\Users\alexe\source\repos\Economy\Economy\obj\Debug\Economy.pdb

@@ -1,0 +1,35 @@
+C:\Users\alexe\source\repos\Economy\Economy\obj\Debug\View Analysis.csprojAssemblyReference.cache
+C:\Users\alexe\source\repos\Economy\Economy\obj\Debug\Economy.Form1.resources
+C:\Users\alexe\source\repos\Economy\Economy\obj\Debug\Economy.Form10.resources
+C:\Users\alexe\source\repos\Economy\Economy\obj\Debug\Economy.Form3.resources
+C:\Users\alexe\source\repos\Economy\Economy\obj\Debug\Economy.Form4.resources
+C:\Users\alexe\source\repos\Economy\Economy\obj\Debug\Economy.Form5.resources
+C:\Users\alexe\source\repos\Economy\Economy\obj\Debug\Economy.Form6.resources
+C:\Users\alexe\source\repos\Economy\Economy\obj\Debug\Economy.Form7.resources
+C:\Users\alexe\source\repos\Economy\Economy\obj\Debug\Economy.Form8.resources
+C:\Users\alexe\source\repos\Economy\Economy\obj\Debug\Economy.Form9.resources
+C:\Users\alexe\source\repos\Economy\Economy\obj\Debug\Economy.Properties.Resources.resources
+C:\Users\alexe\source\repos\Economy\Economy\obj\Debug\Economy.Form1.uk-UA.resources
+C:\Users\alexe\source\repos\Economy\Economy\obj\Debug\Economy.Form3.uk-UA.resources
+C:\Users\alexe\source\repos\Economy\Economy\obj\Debug\View Analysis.csproj.GenerateResource.cache
+C:\Users\alexe\source\repos\Economy\Economy\obj\Debug\View Analysis.csproj.CoreCompileInputs.cache
+C:\Users\alexe\source\repos\Economy\Economy\bin\Debug\MySql.Data.dll
+C:\Users\alexe\source\repos\Economy\Economy\bin\Debug\Google.Protobuf.dll
+C:\Users\alexe\source\repos\Economy\Economy\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\alexe\source\repos\Economy\Economy\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\alexe\source\repos\Economy\Economy\bin\Debug\Renci.SshNet.dll
+C:\Users\alexe\source\repos\Economy\Economy\bin\Debug\MySql.Data.xml
+C:\Users\alexe\source\repos\Economy\Economy\obj\Debug\Economy.Form2.resources
+C:\Users\alexe\source\repos\Economy\Economy\obj\Debug\Economy.Form2.uk-UA.resources
+C:\Users\alexe\source\repos\Economy\Economy\obj\Debug\View Analysis.csproj.CopyComplete
+C:\Users\alexe\source\repos\Economy\Economy\bin\Debug\View Analysis.exe.config
+C:\Users\alexe\source\repos\Economy\Economy\bin\Debug\View Analysis.exe
+C:\Users\alexe\source\repos\Economy\Economy\bin\Debug\View Analysis.pdb
+C:\Users\alexe\source\repos\Economy\Economy\bin\Debug\uk-UA\View Analysis.resources.dll
+C:\Users\alexe\source\repos\Economy\Economy\obj\Debug\uk-UA\View Analysis.resources.dll
+C:\Users\alexe\source\repos\Economy\Economy\obj\Debug\View Analysis.exe
+C:\Users\alexe\source\repos\Economy\Economy\obj\Debug\View Analysis.pdb
+C:\Users\alexe\source\repos\Economy\Economy\bin\Debug\itextsharp.dll
+C:\Users\alexe\source\repos\Economy\Economy\bin\Debug\itextsharp.pdfa.dll
+C:\Users\alexe\source\repos\Economy\Economy\bin\Debug\itextsharp.xtra.dll
+C:\Users\alexe\source\repos\Economy\Economy\bin\Debug\itextsharp.xml
